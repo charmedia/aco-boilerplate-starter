@@ -8,7 +8,7 @@
           "Store": "default"
         },
         "cs": {
-          "AC-View-ID": "7017bc7d-9a39-43cf-abac-25e900bb5a39",
+          "AC-View-ID": "{{catalogViewID}}",
           "AC-Source-Locale": "en-US",
           "AC-Price-Book-ID": "{{priceBookID}}",            # Optional. Remove if not needed.
           "AC-Policy-{{attributeTrigger}}": "{{attributeValue}}"  # Optional. Remove this header if not needed.
