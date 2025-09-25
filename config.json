@@ -1,12 +1,12 @@
 {
  "public": {
    "default": {
-   "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+   "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/graphql",
    "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/QD1T4hbz1zGxLHYpp8cyPy/graphql",
    "headers": {
       "cs": {
          "ac-view-id": "b2cdc85b-7004-494c-a3bd-6c55e5533e4c",
-         "ac-price-book-id": "east_coast_inc",
+         "ac-price-book-id": "east_coast_in",
          "ac-source-locale": "en-US"
         }
       },
